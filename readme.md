@@ -32,12 +32,12 @@ PHP版本推荐 ≥ 7.0
 先去 www.teambition.com 注册登录  
 Cookie获取:  
 F12 -> Network -> 刷新一下 找到如图所示的cookie  
-![image](https://ae01.alicdn.com/kf/U6ac816255ae44212a0b10f8d56b8cc01k.jpg)  
+![image]!(https://user-images.githubusercontent.com/77466712/174554154-d75bcf47-8050-4d7a-8526-e6649bdd7bdc.png)
 
 项目ID(projectId)获取:  
 先创建一个项目,然后进入创建的项目  
-![image](https://ae01.alicdn.com/kf/U78fa30b3f30b47de96af1449808e153cV.jpg)  
-![image](https://ae01.alicdn.com/kf/Ube8a1476632a48c59f760d19fec97f79F.jpg)  
+![image](https://user-images.githubusercontent.com/77466712/174554241-7a70a45b-3a89-42da-8663-4ceffcfd99f2.png)
+![image](https://user-images.githubusercontent.com/77466712/174554319-06d1994c-afbe-4393-8996-80cc1732b087.png)
 
 ## 伪静态规则
 
@@ -74,3 +74,5 @@ docker pull flxsnx/teambitionshare
 docker run -d -p 8081:80 flxsnx/teambitionshare:latest
 # 访问: http://ip:8081
 ```
+## https://github.com/FlxSNX/TeambitionShare
+## https://github.com/tmmtoo/TeambitionNET
